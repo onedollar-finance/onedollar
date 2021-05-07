@@ -1,0 +1,2 @@
+debian/bin/onedollard usr/bin
+src/onedollard usr/lib/onedollar

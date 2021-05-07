@@ -1,0 +1,9 @@
+Building OneDollar
+
+See doc/readme-qt.rst for instructions on building OneDollar QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OneDollar.
+
+See doc/build-*.txt for instructions on building onedollard,
+the intended-for-services, no-graphical-interface, reference
+implementation of OneDollar.
